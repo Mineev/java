@@ -1,1 +1,1 @@
-Проверка GIT
+Hello, GIT!

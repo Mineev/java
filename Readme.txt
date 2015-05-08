@@ -1,1 +1,1 @@
-Проверка Git
+Hello, World!
